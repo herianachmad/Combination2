@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Combination</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Combination Apps in Book Refference</string>
+    <string name="nav_header_subtitle">herian.achmad@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_about">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_favourite">action love</string>
+    <string name="action_status">action status</string>
+
+    <!--<!item lists -->
+    <string-array name="my_pet_lists">
+        <!--<item>Rat</item>-->
+        <item>Ants</item>
+        <item>Bees</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Elephant</item>
+        <item>Shark</item>
+        <item>Piggeon</item>
+    </string-array>
+
+    <string-array name="my_pet_description">
+        <!--<item>Rat is Enemy</item>-->
+        <item>Ants is Always together</item>
+        <item>Bees is usefull</item>
+        <item>Cat is Cute</item>
+        <item>Dog is Barking</item>
+        <item>Elephant is big</item>
+        <item>Shark is predator</item>
+        <item>Piggeon is Ficion</item>
+    </string-array>
+</resources>
